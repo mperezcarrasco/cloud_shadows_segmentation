@@ -47,9 +47,12 @@ The cloud and shadow detection system processes MethaneAIR and MethaneSAT L1B hy
 
 ## Data
 
-Our data can be accessed through [Harvard Dataverse](https://doi.org/10.7910/DVN/IKLZOJ).
+## Data
 
-
+All datasets (MethaneAIR and MethaneSAT hyperspectral imagery with ground truth labels) are available through Harvard Dataverse:
+- **Data download**: Our data can be accessed through [Harvard Dataverse](https://doi.org/10.7910/DVN/IKLZOJ)
+- **Dataset size**: ~508 MethaneAIR hyperspectral cubes, ~262 MethaneSAT samples
+- **Format**: L1B calibrated hyperspectral data with corresponding cloud/shadow masks
 
 ## Key Results
 
@@ -71,14 +74,6 @@ Our comprehensive evaluation demonstrates state-of-the-art performance across mu
 | U-Net | 88.26±0.45 | 76.24±1.90 | 72.59±2.13 | 83.65±1.03 |
 | SCAN | 86.51±2.90 | 74.96±0.96 | 72.17±1.60 | 83.46±3.13 |
 | **Combined CNN** | **89.42±1.20** | **78.50±3.08** | **74.44±1.89** | **88.97±2.77** |
-
-
-## Data
-
-All datasets (MethaneAIR and MethaneSAT hyperspectral imagery with ground truth labels) are available through Harvard Dataverse:
-- **Data download link**: [Harvard Dataverse repository link will be provided]
-- **Dataset size**: ~508 MethaneAIR hyperspectral cubes, ~262 MethaneSAT samples
-- **Format**: L1B calibrated hyperspectral data with corresponding cloud/shadow masks
 
 ## Environment Setup
 
