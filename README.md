@@ -1,6 +1,7 @@
 # Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy 🛰️
 
-This repository contains the **completed implementation** of advanced cloud and shadow detection algorithms for MethaneAIR and MethaneSAT hyperspectral data processing. 
+This repository contains the main code of our paper: [Deep Learning for Clouds and Cloud Shadow Segmentation in
+Methane Satellite and Airborne Imaging Spectroscopy](https://arxiv.org/abs/2509.19665)
 
 ## Overview
 
