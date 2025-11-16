@@ -147,5 +147,20 @@ The `run_experiment.py` script orchestrates batch experiments with parallel exec
 - `--lr`: Learning rate (optimized per model in configs)
 
 
+## Citation
+```
+@article{PrezCarrasco2025DeepLF,
+  title={Deep Learning for Clouds and Cloud Shadow Segmentation in Methane Satellite and Airborne Imaging Spectroscopy},
+  author={Manuel P{\'e}rez-Carrasco and Maya Nasr and Sebastien Roche and Christopher Chan Miller and Zhan Zhang and Core Francisco Park and Eleanor Walker and Cecilia Garraffo and Douglas Finkbeiner and Ritesh Gautam and Steve Wofsy},
+  journal={ArXiv},
+  year={2025},
+  volume={abs/2509.19665},
+  url={https://api.semanticscholar.org/CorpusID:281505215}
+}
+```
+
 ## Contact
 For questions or feedback, please open an issue on this repository or contact maperezc@udec.cl.
+
+
+
