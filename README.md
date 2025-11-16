@@ -45,6 +45,12 @@ The cloud and shadow detection system processes MethaneAIR and MethaneSAT L1B hy
     └── msat_cs/                           # MethaneSAT data
 ```
 
+## Data
+
+Our data can be accessed through [Harvard Dataverse](https://doi.org/10.7910/DVN/IKLZOJ).
+
+
+
 ## Key Results
 
 Our comprehensive evaluation demonstrates state-of-the-art performance across multiple model architectures:
@@ -155,7 +161,8 @@ The `run_experiment.py` script orchestrates batch experiments with parallel exec
   journal={ArXiv},
   year={2025},
   volume={abs/2509.19665},
-  url={https://api.semanticscholar.org/CorpusID:281505215}
+  url={https://api.semanticscholar.org/CorpusID:281505215},
+  doi={doi:10.7910/DVN/IKLZOJ}
 }
 ```
 
